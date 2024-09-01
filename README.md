@@ -1,5 +1,5 @@
 # Projeto-DSII
-Projeto para a disciplina de Desenvolvimento de Sistemas II do 3º semestre de Sistemas de Informação
+Projeto para a disciplina de Desenvolvimento de Sistemas II do 3º semestre de Sistemas de Informação - Universidade Presbiteriana Mackenzie.
 
 **Integrantes:**
 - Geovanna da Silva Lima - 10420059
